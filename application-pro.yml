@@ -2,7 +2,7 @@ spring:
   application:
     name: UserServer-PRO
 server:
-  port: 8001
+  port: 8003
 eureka:
   instance:
     hostname: localhost

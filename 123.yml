@@ -2,7 +2,7 @@ spring:
   application:
     name: 123
 server:
-  port: 8001
+  port: 8006
 eureka:
   instance:
     hostname: localhost

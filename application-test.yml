@@ -2,7 +2,7 @@ spring:
   application:
     name: UserServer-TEST
 server:
-  port: 8001
+  port: 8004
 eureka:
   instance:
     hostname: localhost

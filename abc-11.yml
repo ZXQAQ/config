@@ -2,7 +2,7 @@ spring:
   application:
     name: ABC-11
 server:
-  port: 8001
+  port: 8005
 eureka:
   instance:
     hostname: localhost
