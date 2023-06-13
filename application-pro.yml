@@ -1,6 +1,6 @@
 spring:
   application:
-    name: UserServer
+    name: UserServer-PRO
 server:
   port: 8001
 eureka:
