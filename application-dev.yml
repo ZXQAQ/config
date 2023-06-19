@@ -1,3 +1,4 @@
+ttt: application-dev-master
 spring:
   application:
     name: UserServer-DEV
